@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahims-test-course22"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahims-test-course22"
+  },
+  "course_title": "ibrahims-test-course22",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ibrahims-test-course22",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "d1c6bffb-7f20-49c4-8a6a-b8bc120f07f2",
+  "site_short_id": "ibrahims-test-course22"
+}
